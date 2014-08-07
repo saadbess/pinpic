@@ -2,7 +2,7 @@
 
 $body-bg:													#ecf0f1;
 $font-family-sans-serif:					'Nunito', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-$navbar-height:										45px;
+$navbar-height:										55px;
 $navbar-default-bg:								#fff;
 $navbar-default-brand-color:			#D64541;
 $brand-primary: 									#D64541;
@@ -16,5 +16,17 @@ $jumbotron-bg: 										#fff;
 
 .navbar-brand {
 	font-weight: bold;
+}
+
+.sub-intro {
+	color: #D64541;
+}
+
+#woods {
+	  background: url(landscape.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
